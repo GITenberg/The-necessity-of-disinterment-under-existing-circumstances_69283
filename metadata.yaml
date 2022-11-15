@@ -1,0 +1,30 @@
+_repo: The-necessity-of-disinterment-under-existing-circumstances_69283
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cooke, William
+    birthdate: 1802
+    deathdate: 1834
+    gutenberg_agent_id: '55184'
+    url: http://www.gutenberg.org/2009/agents/55184
+description: ''
+gutenberg_issued: '2022-11-01'
+identifiers:
+  gutenberg: '69283'
+language: en
+pgterms:marc905: 20220821170906cooke
+pgterms:marc906: '1827'
+pgterms:marc907: GB
+production_note: Carol Brown, and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United Kingdom: Sherwood, Gilbert, and Piper,1827.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Body snatching'
+- !lcsh 'Human dissection'
+- !lcc 'RA'
+- GITenberg
+title: The necessity of disinterment, under existing circumstances
+url: http://www.gutenberg.org/ebooks/69283
